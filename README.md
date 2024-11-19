@@ -1,12 +1,14 @@
 Hello! I am a Data Scientist with a strong academic foundation in Information Technology and Communication from Florida State University, where I specialized in Data Analytics. My passion lies in uncovering meaningful insights from data, bridging the gap between complex datasets and actionable strategies. With a knack for problem-solving and a collaborative spirit, I am eager to make a lasting impact in the dynamic and fast-evolving field of data science.
 
 Academic Background
+
 Degree: Bachelor’s in Information Technology and Communication
 Institution: Florida State University
 Specialization: Data Analytics
 Through my coursework and projects, I developed a deep understanding of data analysis, visualization, and machine learning. These experiences have equipped me with the technical and analytical skills to tackle real-world data challenges.
 
 Professional Skillset
+
 I bring a versatile skillset tailored to solving diverse data-related problems:
 
 Technical Skills
@@ -22,9 +24,7 @@ Building predictive models and generating actionable insights
 Conducting exploratory data analysis (EDA)
 Communicating technical findings to non-technical stakeholders
 
-Passion for Data
 What excites me most about data science is its potential to solve real-world problems across industries. I thrive in environments where I can:
-
 Uncover hidden patterns in data to improve decision-making.
 Collaborate with cross-functional teams to build innovative solutions.
 Continuously learn and adapt to emerging technologies and methodologies.
