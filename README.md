@@ -24,15 +24,8 @@ Building predictive models and generating actionable insights
 Conducting exploratory data analysis (EDA)
 Communicating technical findings to non-technical stakeholders
 
-What excites me most about data science is its potential to solve real-world problems across industries. I thrive in environments where I can:
+What excites me most about data science is its potential to solve real-world problems across industries. I thrive in environments where I can uncover hidden patterns in data to improve decision-making, collaborate with cross-functional teams to build innovative solutions, and continuously learn and adapt to emerging technologies and methodologies.
 
-Uncover hidden patterns in data to improve decision-making.
-Collaborate with cross-functional teams to build innovative solutions.
-Continuously learn and adapt to emerging technologies and methodologies.
-Goals
 I aim to contribute my expertise to a team that values data-driven decision-making, leveraging my skills to drive efficiency and innovation. 
 
-My long-term vision includes:
-Mastering advanced machine learning techniques and artificial intelligence.
-Tackling large-scale, impactful problems in industries like finance, healthcare, or technology.
-Becoming a leader in the data science community by mentoring and sharing knowledge.
+My long-term vision includes mastering advanced machine learning techniques and artificial intelligence, tackling large-scale, impactful problems in industries like finance, healthcare, or technology, becoming a leader in the data science community by mentoring and sharing knowledge.
