@@ -13,7 +13,7 @@ Database Management: MySQL, PostgreSQL
 Big Data: Familiarity with Hadoop and Spark ecosystems
 Tools: Jupyter Notebooks, Git, Excel (Advanced), APIs
 
-***Key Competencies***
+**Key Competencies**
 
 Data cleaning and preprocessing
 Building predictive models and generating actionable insights
