@@ -12,6 +12,7 @@ Professional Skillset
 I bring a versatile skillset tailored to solving diverse data-related problems:
 
 Technical Skills
+
 Programming Languages: Python, R, SQL
 Data Visualization: Tableau, Matplotlib, Seaborn
 Machine Learning: Regression, Classification, Clustering, PCA, Decision Trees, Neural Networks
