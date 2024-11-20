@@ -7,11 +7,9 @@ Institution: Florida State University
 Specialization: Data Analytics
 Through my coursework and projects, I developed a deep understanding of data analysis, visualization, and machine learning. These experiences have equipped me with the technical and analytical skills to tackle real-world data challenges.
 
-Professional Skillset
+**Professional Skillset**
 
-I bring a versatile skillset tailored to solving diverse data-related problems:
-
-Technical Skills
+***Technical Skills***
 
 Programming Languages: Python, R, SQL
 Data Visualization: Tableau, Matplotlib, Seaborn
@@ -19,7 +17,8 @@ Machine Learning: Regression, Classification, Clustering, PCA, Decision Trees, N
 Database Management: MySQL, PostgreSQL
 Big Data: Familiarity with Hadoop and Spark ecosystems
 Tools: Jupyter Notebooks, Git, Excel (Advanced), APIs
-Key Competencies
+
+***Key Competencies***
 Data cleaning and preprocessing
 Building predictive models and generating actionable insights
 Conducting exploratory data analysis (EDA)
