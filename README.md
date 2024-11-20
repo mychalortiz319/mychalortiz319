@@ -1,6 +1,6 @@
 Hello! I am a Data Scientist with a strong academic foundation in Information Technology and Communication from Florida State University, where I specialized in Data Analytics. My passion lies in uncovering meaningful insights from data, bridging the gap between complex datasets and actionable strategies. With a knack for problem-solving and a collaborative spirit, I am eager to make a lasting impact in the dynamic and fast-evolving field of data science.
 
-Academic Background
+**Academic Background**
 
 Degree: Bachelor’s in Information Technology and Communication
 Institution: Florida State University
